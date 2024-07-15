@@ -1,0 +1,12 @@
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\WebApiAngular.exe
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.Development.json
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.json
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\libs\Docse.dll
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\WebApiAngular.dll
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\WebApiAngular.deps.json
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\WebApiAngular.runtimeconfig.json
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\WebApiAngular.pdb
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jeffe\Desktop\Exemplo NET Core Consume DLL\WAppConsomeDLLAngular\WebApiAngular\WebApiAngular\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
